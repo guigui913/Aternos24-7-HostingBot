@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "GuikoffPVPteam.aternos.me",
+    "port": 62178,
     "version": "",
     "try-creative": false
   },
